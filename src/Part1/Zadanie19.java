@@ -1,3 +1,5 @@
+package Part1;
+
 public class Zadanie19 {
     public static void main(String[] args) {
         //Producent napojów bezalkoholowych przeprowadził ankietę z udziałem 12 467

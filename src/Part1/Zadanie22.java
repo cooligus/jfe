@@ -1,3 +1,5 @@
+package Part1;
+
 public class Zadanie22 {
     public static void main(String[] args) {
         //W zeszłym miesiącu Jacek kupił trochę akcji firmy Acme Software. Oto szczegóły tej

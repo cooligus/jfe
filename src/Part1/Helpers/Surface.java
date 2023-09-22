@@ -1,4 +1,4 @@
-package Helpers;
+package Part1.Helpers;
 
 public class Surface {
     float totalSurface;
